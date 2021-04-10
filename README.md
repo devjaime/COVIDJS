@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://lucid-agnesi-8dbaf1.netlify.app/" target="_blank">
     <h1>COVID JS</h1>
   </a>
 </p>
